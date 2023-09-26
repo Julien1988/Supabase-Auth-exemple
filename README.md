@@ -73,3 +73,8 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+## Exemple projet AUTH avec NUXT3 et SUPABASE
+
+https://supabase.nuxtjs.org/

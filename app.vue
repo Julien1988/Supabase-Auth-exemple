@@ -1,9 +1,9 @@
-<template>
-<div>
-  hi
-</div>
-</template>
-
 <script setup>
+const user = useSupabaseUser();
+console.log(user.value)
 
 </script>
+
+<template>
+ <NuxtPage/>
+</template>
